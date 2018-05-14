@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Game/wechat_jump_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ML/Python-Machine-Learning-By-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenCVTest/OpenCV-Python-Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenCVTest/OpenCVwithPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenCVTest/dlcv_for_beginners" vcs="Git" />
+  </component>
+</project>
